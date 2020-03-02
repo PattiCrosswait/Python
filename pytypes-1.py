@@ -1,0 +1,8 @@
+print(type([47]))
+print(type({"server": "mpilgrim", "database": "master"}))
+print(type(("a", "b", "mpilgrim", "z", "example")))
+print(type("Patti"))
+print(type(48))
+print(type(33.55))
+print(type(2+3j))
+print(type(True))
